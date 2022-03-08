@@ -4,5 +4,5 @@ Using the MNIST dataset, predict the handwritten digits. Used a simple Convoluti
 
 #### [Dataset](https://www.kaggle.com/c/digit-recognizer/data)
 
-#### Tech Stack:
+#### Tech-Stack:
 TensorFlow/Keras, Pandas
