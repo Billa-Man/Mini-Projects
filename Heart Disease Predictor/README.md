@@ -7,5 +7,5 @@ Achieved a Recall of 0.8255
 
 #### [Dataset](https://www.kaggle.com/alexteboul/heart-disease-health-indicators-dataset)
 
-#### Tech Stack:
+#### Tech-Stack:
 TensorFlow/Keras, Scikit-Learn, Pandas
