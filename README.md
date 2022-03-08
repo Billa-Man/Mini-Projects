@@ -1,3 +1,3 @@
 #### Projects
 
-Contains all my recent and projects
+Contains all my recent projects
