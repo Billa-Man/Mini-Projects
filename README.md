@@ -1,7 +1,5 @@
-#### Projects
+#### Mini Projects
 
-Contains all my recent projects </br>
- </br>
 
 Autism Predictor - DNN, skewed dataset </br>
 Face Mask Detector - Computer Vision </br>
